@@ -1,3 +1,6 @@
+<img src="https://github.com/b31ngD3v/DevChat-WhatsApp-Clone/blob/master/screenshots/Screenshot%20at%202020-09-23%2023-51-32.png" alt="" />
+<image src="https://github.com/b31ngD3v/DevChat-WhatsApp-Clone/blob/master/screenshots/Screenshot%20at%202020-09-23%2023-52-18.png" alt="" />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
